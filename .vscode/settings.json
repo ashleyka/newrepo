@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "cse340",
+            "username": "cse340",
+            "database": "cse340_dsbw"
+        }
+    ]
+}
